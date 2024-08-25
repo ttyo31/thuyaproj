@@ -59,17 +59,17 @@
         experiences: {
           experience1: {
             title: 'Jakarta Immersion Trip',
-            description: 'During the summer of 2024, I went on a Jakarta Immersion trip that was organised by Meet Ventures in collaboration with National Youth Council. The purpose of the trip was to learn more Indonesia and the startup culture of Indonesia. During the trip, we were also tasked with a business consultancy project for one of our sponsor company. This trip was a very enriching experience as it gave me great insight on what it takes to be a startup founder and also about Indonesia as an up and coming economic powerhouse.',
+            description: 'During the summer of 2024, I went on a Jakarta Immersion trip that was organized by Meet Ventures in collaboration with the National Youth Council. The purpose of the trip was to learn more about Indonesia and the startup culture there. During the trip, we were also tasked with a business consultancy project for one of our sponsor companies. This trip was a very enriching experience as it gave me great insight into what it takes to be a startup founder and also provided valuable knowledge about Indonesia as an up-and-coming economic powerhouse.',
             image: require('../assets/jakarta.jpeg')
           },
           experience2: {
             title: 'Course planning workshop',
-            description: 'This was a unique oppourtunity that was offered to me due to me working at the student services hub. I was tasked with giving a talk to the freshman on how they should be planning for the academic career in SMU. In the talk, I also shared with the year 1s on the importance of planning of early and also the resources that were at their disposal, that would help them to easily plan their SMU journey.',
+            description: 'This was a unique opportunity that was offered to me due to my work at the Student Services Hub. I was tasked with giving a talk to the freshmen on how they should plan their academic careers at SMU. In the talk, I also shared with the Year 1 students the importance of planning early and the resources at their disposal that would help them easily plan their SMU journey.',
             image: require('../assets/sshoverview.jpeg')
           },
           experience3: {
             title: 'Google Cybersecurity course',
-            description: 'This is a cybersecurity course that I took during the summer of 2024. Due to nature of the digital age that we are living in, a lot of data is produced on a daily basis. Proper utilisation of this data with technology allows us to have better standards of living, however, this data is also susceptible to malicious actors. This means that data security is also becoming paramount importance. Due to this, I felt that a knowledge in cybersecurity would benefit me in my journey as a web developer or data analyst.',
+            description: 'This is a cybersecurity course that I took during the summer of 2024. Due to the nature of the digital age that we are living in, a lot of data is produced daily. Proper utilization of this data with technology allows us to have better standards of living; however, this data is also susceptible to malicious actors. This means that data security is becoming of paramount importance. Due to this, I felt that knowledge in cybersecurity would benefit me in my journey as a web developer or data analyst.',
             image: require('../assets/cybersecurity.png')
           }
         }

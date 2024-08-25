@@ -45,7 +45,7 @@
               dual-tracking in Business Analytics and Digitisation & Cloud Solutions, with a second major in
               Cybersecurity.
               My passion lies in the evolving tech landscape, particularly in how data is leveraged to innovate and
-              improve lives. Recognizing the critical importance of data security, I chose to pursue Cybersecurity to
+              improve lives. Recognizing the critical importance of data security, I chose to pursue Cybersecurity as a second major to
               complement my studies and ensure that the data-driven solutions I work on are well-protected.
             </b>
           </p>
@@ -91,8 +91,7 @@
           </div>
           <div class="row">
             <p style="text-align: start;">
-              This is a personal project to showcase some of my personal web development skill whilst creating a MyPortfolio
-              website that is easy for people to look through. The website is deployed on Github and was made using VueJS.
+              This is a personal project to showcase some of my web development skills while creating a MyPortfolio website that is easy for people to navigate. The website is deployed on GitHub and was made using VueJS.
               <br>
               <br>
               <b>Frontend:</b>
@@ -113,9 +112,9 @@
             <img src="../assets/bookquest.png"class ="round">
           </div>
           <div class="row">
-            <p style="text-align: start;">This was a school project in which we were tasked to design a Web application. My contribution to this specific project
-was in the form of designing the skill tree portion of bookquest, which used CSS to design the tree itself and used a 
-simple algorithm + api call to google books to sort the new books into the skill tree.
+            <p style="text-align: start;">This was a school project in which we were tasked with designing a web application. My contribution to this specific project was in designing the skill tree portion of Bookquest, which involved using CSS to design the tree itself and implementing a simple algorithm along with an API call to Google Books to sort the new books into the skill tree.
+
+
               <br>
               <br>
               
@@ -146,11 +145,7 @@ MySQL<br>
           </div>
           <div class="row">
             <p style="text-align: start">
-              This is a google cert in cybersecurity that I have obtained over the summer of 2024.This certification gave
-              me a better glimpse into the world of cybersecurity. It taught me the importance of cybersecurity to ensure 
-              the compliance of the CIA triad. It also give me the basic's of using SIEM tools and linux command line to 
-              retrieve logs. I was also taught the basics on how to analyse logs and weed out suspicious behaviour that
-              could be due to attacks.
+              This is a Google certificate in cybersecurity that I obtained over the summer of 2024. This certification gave me a better glimpse into the world of cybersecurity. I learned the importance of cybersecurity in ensuring compliance with the CIA triad. It also gave me the basics of using SIEM tools and the Linux command line to retrieve logs. I also learned the basics of how to analyze logs and identify suspicious behavior that could indicate attacks.
             </p>
           </div>
         </div>

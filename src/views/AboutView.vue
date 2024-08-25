@@ -3,7 +3,7 @@
     <div class="container-fluid" style="padding: 0;margin: 0;width: 100%;">
       <div class="row grey" style="margin-left: 0;text-align: start;">
         <div class="col-12">
-          <h1>Professional Experiences</h1>
+          <h1>Professional Job Experiences</h1>
           <p>
             Explore some of the key experiences that have shaped my professional journey. Each experience showcases the
             skills, responsibilities, and achievements that have contributed to my growth.
@@ -17,15 +17,17 @@
           <h3>SMU student services hub</h3>
           <p><b>Company/Organization:</b> SMU</p>
           <p><b>Role:</b> Student advisor</p>
-          <p><b>Duration:</b> Dec 2023- Now</p>
-          <p>This is my current job that I have held for almost the past year. My job is stationed at the student
-            service
-            hub located in SMU. In this job, I help with student queries and direct them to the proper channels in which
-            they are able to resolve their queries. Through, this job has provided me with many unique experiences like
-            interacting with students of different backgrounds and even allowed me to go up on stage to give a talk to
-            the Y1s for their course planning.
+          <p><b>Duration:</b> Dec 2023 - Present</p>
+          <p>
+            <ul>
+  <li>Assist students with a wide range of inquiries, providing clear and accurate information while directing them to appropriate resources for resolution.</li>
+  <li>Serve as a key point of contact at the Student Service Hub, enhancing the student experience through effective communication and support.</li>
+  <li>Engage with a diverse student population, developing strong interpersonal skills and cultural awareness.</li>
+  <li>Delivered a seminar to first-year students on course planning, helping them structure their academic journey at SMU.</li>
+  
+</ul>
           </p>
-          <p><b>Skills:</b>Customer service, Public speaking</p>
+          <p><b>Skills Learned:</b> Customer service, Public speaking</p>
         </div>
         <div class="col-4">
           <img src="../assets/logo.png" class="round-image">
@@ -36,18 +38,16 @@
           <h3>Samsung Mobile Phone Promoter</h3>
           <p><b>Company/Organization:</b> Samsung</p>
           <p><b>Role:</b> Mobile Phone promoter</p>
-          <p><b>Duration:</b>May 2021 - Aug 2024</p>
-          <p>This was my longest job that I ever had. So my job was to promote to customers Samsung mobile phone
-            products.
-            This job was made easier espicially because of the fact that my previous job was working in a Telco company,
-            it
-            meant that I had many transferable skills like being able to converse effectively in both English and
-            Mandaring
-            about this topic, being very literate espicially when it came to mobile phones and also I was experienced in
-            working with many difficult customers
-
+          <p><b>Duration:</b> May 2021 - Aug 2024</p>
+          <p>
+            <ul>
+              <li>Promoted Samsung mobile phone products to a wide range of customers, leveraging in-depth product knowledge to drive sales.</li>
+              <li>Utilized strong communication skills in both English and Mandarin to effectively engage with a diverse customer base.</li>
+              <li>Applied transferable skills from previous experience in the telecommunications industry, including technical literacy and customer service expertise.</li>
+              <li>Demonstrated the ability to handle challenging customer interactions, providing solutions and maintaining a high level of customer satisfaction.</li>
+            </ul>
           </p>
-          <p><b>Skills:</b>Customer service, Sales</p>
+          <p><b>Skills Learned:</b> Customer service, Sales</p>
         </div>
         <div class="col-4">
           <img src="../assets/samsung.png" class="round-image">
@@ -58,18 +58,16 @@
           <h3>M1 digital ambassador</h3>
           <p><b>Company/Organization:</b> M1 Pte Ltd</p>
           <p><b>Role:</b> Digital ambassador</p>
-          <p><b>Duration:</b>Feb 2021 - May 2021</p>
-          <p>So this was the job that I took on after I finished my national service. In this job, I was tasked with
-            teaching
-            M1 customers on how to use their phone, digital app and also in charge of dispensing a queue ticket for
-            their
-            enquiries. I was the first line of contact for anyone that walks into a M1 shop. This job was particularly
-            challenging as often times I had to communicate with elderly or people who are less techincally saavy, and
-            in most cases, it often takes quite alot of patience to teach them how to do things. I was also tasked with
-            managing queue times, by ensuring that queries that did not need to be raised to counter staff were resolved
-            so as to not make queutimes unnecessarily long.
+          <p><b>Duration:</b> Feb 2021 - May 2021</p>
+          <p>
+            <ul>
+              <li>Served as the first point of contact for customers at M1 retail stores, assisting with a variety of inquiries and ensuring a welcoming experience</li>
+              <li>Educated customers, particularly elderly and less tech-savvy individuals, on how to use their mobile phones and the M1 digital app, requiring patience and clear communication.</li>
+              <li>Managed queue times effectively by addressing customer queries directly, minimizing the need for escalation to counter staff and reducing overall wait times.</li>
+              <li>Demonstrated strong interpersonal skills, fostering positive customer interactions and enhancing the overall customer experience.</li>
+            </ul>
           </p>
-          <p><b>Skills:</b>Patience, Tech literacy, Effective communication in multiple languages</p>
+          <p><b>Skills Learned:</b>Customer Service, Tech literacy, Effective communication</p>
         </div>
         <div class="col-4">
           <img src="../assets/m1.png" class="round-image">
@@ -80,22 +78,17 @@
           <h3>National Service</h3>
           <p><b>Company/Organization:</b> SAF</p>
           <p><b>Role:</b> Driver</p>
-          <p><b>Duration:</b> 2019-2021</p>
-          <p>During my national service, I was a driver for 1st transport Alpha company. Our company was incharge of
-            moving
-            bullets and transporting vehincles using low loaders. Due to our specialisation even amongst other transport
-            company, it made my national service more rewarding, fun and even scary at times. We were trained not just
-            in
-            class 3 but also class 4 and class 4a vehicles. Initially, it was very scary to drive such a huge vehicle on
-            the road espicially knowing that 1. You could easily collide with another car if you are not too careful and
-            2.
-            if we do get into a traffic accident, it could be a huge catostraphe due to the live ordinance that we were
-            carrying.
-            It took me awhile to get over this fear and only through many trial and error was I finally confident enough
-            to
-            drive the low loader.
+          <p><b>Duration:</b> Jan 2019 - Jan 2021</p>
+          <p>
+            <ul>
+              <li>Specialized in transporting military vehicles and live ordnance, including the operation of low loaders and other heavy vehicles.</li>
+              <li>Trained and certified in driving Class 3, Class 4, and Class 4A vehicles, gaining extensive experience in handling large and complex vehicles under challenging conditions.</li>
+              <li>Successfully navigated the risks associated with transporting live ordnance, developing strong situational awareness and a meticulous approach to safety.</li>
+              <li>Overcame initial challenges and fear associated with driving large vehicles through consistent practice, eventually achieving confidence and proficiency in operating low loaders.</li>
+              <li>Contributed to the success of the company's operations by ensuring the safe and timely transport of critical military assets.</li>
+            </ul>
           </p>
-          <p><b>Skills Learned:</b>Teamwork, Attention to detail, Problem Solving</p>
+          <p><b>Skills Learned:</b> Teamwork, Attention to detail, Problem Solving</p>
         </div>
         <div class="col-4">
           <img src="../assets/army.jpeg" class="round-image">
@@ -107,15 +100,16 @@
           <p><b>Company/Organization:</b> Jimei</p>
           <p><b>Role:</b> Sales Assistant</p>
           <p><b>Duration:</b> Dec 2016 - Feb 2017</p>
-          <p>So basically this was my first ever job that I had. It was when I had just finished O-levels and was
-            waiting
-            for the results to come out. So basically, in this job, we had to interact with customers who were there to
-            buy
-            Christmas trees, get their order and schedule their orders to their house. We also handled communications
-            with
-            the delivery staff and had to coordinate their deliveries based on both delivery date and area.
+          <p>
+            <ul>
+              <li>Assisted customers in selecting and purchasing Christmas trees, providing excellent customer service and ensuring a positive shopping experience.</li>
+              <li>Managed order processing, including scheduling delivery dates and coordinating with customers to ensure timely and accurate deliveries.</li>
+              <li>Communicated effectively with delivery staff to coordinate logistics, optimizing delivery routes based on both delivery dates and geographic areas.</li>
+              <li>Developed strong organizational and multitasking skills by handling multiple orders and delivery schedules simultaneously.</li>
+              <li>Gained valuable experience in customer interaction, logistics coordination, and team communication.</li>
+            </ul>
           </p>
-          <p><b>Skills Learned:</b>Effective Communication, Sales,Patience in working with a team</p>
+          <p><b>Skills Learned:</b> Effective Communication, Sales</p>
         </div>
         <div class="col-4">
           <img src="../assets/jm.png" class="round-image">
