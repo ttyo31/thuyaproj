@@ -1,43 +1,8 @@
 <template>
   <div class="home">
-    <!-- <div style="background-color: #eae2d6;">
-    <nav class="navbar navbar-expand-lg navbar-light custom-navbar">
-      <router-link class="navbar-brand" to="/" style="color: #063970;">MyPortfolio</router-link>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
-        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarNav">
-        <ul class="navbar-nav ml-auto">
-          <li class="nav-item">
-            <router-link class="nav-link" to="/" exact>Home</router-link>
-          </li>
-          <li class="nav-item">
-            <router-link class="nav-link" to="/about">About</router-link>
-          </li>
-          <li class="nav-item">
-            <router-link class="nav-link" to="/skills">Skills</router-link>
-          </li>
-          <li class="nav-item">
-            <router-link class="nav-link" to="/employment">Employment</router-link>
-          </li>
-          <li class="nav-item">
-            <router-link class="nav-link" to="/contact">Contact</router-link>
-          </li>
-        </ul>
-      </div>
-    </nav>
-  </div> -->
   <div class="container-fluid" style="padding: 0;margin: 0;width: 100%;">
     <div class="row grey" style="margin-left: 0;text-align: start;">
       <div class="col-4">
-        <!-- <p style="font-size: 30px;font-family: roboto;color: #1A237E;">
-          
-          Aspiring 
-          <br> Web Developer and
-          <br>Data Analyst
-          <p style="font-size: 30px;">From SMU</p>
-        </p> -->
         <h1>
           I am an aspiring
           <br>
@@ -194,15 +159,6 @@ MySQL<br>
     <div>
     </div>
   </div>
-  <!-- <div class="card" style="width: 18rem;">
-    <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
-        content.</p>
-      <a href="#" class="btn btn-primary">Go somewhere</a>
-    </div>
-  </div> -->
-
 
   </div>
 </template>
@@ -315,7 +271,6 @@ export default {
   font-size: 24px;
   font-weight: bold;
   color: #2c3e50;
-  /* Navbar brand color */
 }
 
 .navbar-nav .nav-item .nav-link {
@@ -334,11 +289,9 @@ export default {
 .navbar-nav .nav-item .nav-link.active {
   color: #ffffff;
   background-color: #2c3e50;
-  /* Highlighted background color for the selected item */
-  border-radius: 5px;
+    border-radius: 5px;
 }
 
-/* Optional: Add a shadow under the navbar for a more distinct separation from the content */
 .custom-navbar {
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 
@@ -346,11 +299,8 @@ export default {
 
 .skills-section {
   border: 2px solid black;
-  /* Adds a black border around the skills section */
   padding: 15px;
-  /* Adds some padding inside the border */
   border-radius: 5px;
-  /* Optional: Rounds the corners of the border */
   background-color: #dfeffc;
 }
 
@@ -358,7 +308,6 @@ body {
   margin: 0;
   padding: 0;
   overflow-x: hidden;
-  /* Prevents horizontal scrolling */
 }
 
 .container-fluid {

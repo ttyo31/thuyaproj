@@ -20,9 +20,9 @@
           <li class="nav-item">
             <router-link class="nav-link" to="/experience">Enriching Experiences</router-link>
           </li>
-          <li class="nav-item">
+          <!-- <li class="nav-item">
             <router-link class="nav-link" to="/hobbies">Hobbies</router-link>
-          </li>
+          </li> -->
           <li class="nav-item">
             <router-link class="nav-link" to="/contact">Contact</router-link>
           </li>

@@ -21,7 +21,7 @@
           <!-- <img src="../assets/talk.jpg" alt="Giving a Talk" class="experience-image"> -->
           <div class="experience-content">
             <h3>Giving a seminar on Course Planning in SMU to Y1 students</h3>
-            <p>Brief description of the experience and the impact it had on you and the audience.</p>
+            <p> A course planning seminar that I gave to the freshman, so as to allow them to properly plan their academic journey</p>
             <button class="learn-more" @click="openModal('experience2')">Learn More</button>
           </div>
         </div>
@@ -31,7 +31,7 @@
           <!-- <img src="../assets/workshop.jpg" alt="Workshop Image" class="experience-image"> -->
           <div class="experience-content">
             <h3>Google Professional Certification In Cybersecurity</h3>
-            <p>Brief description of the workshop and the key takeaways you gained.</p>
+            <p>A google certifcation that I obtained over the summer holidays.</p>
             <button class="learn-more" @click="openModal('experience3')">Learn More</button>
           </div>
         </div>
@@ -40,7 +40,7 @@
       <!-- Modal -->
       <div v-if="showModal" class="modal-overlay" @click.self="closeModal">
         <div class="modal-content">
-          <!-- <img :src="currentExperience.image" alt="Experience Image" class="modal-image"> -->
+          <img :src="currentExperience.image" class="modal-image">
           <h3>{{ currentExperience.title }}</h3>
           <p>{{ currentExperience.description }}</p>
           <button @click="closeModal" class="close-modal">Close</button>
@@ -58,19 +58,19 @@
         currentExperience: {},
         experiences: {
           experience1: {
-            title: 'Excursion to [Location]',
-            description: 'Detailed description of the excursion and what you learned from it.',
-            image: '../assets/excursion.jpg'
+            title: 'Jakarta Immersion Trip',
+            description: 'During the summer of 2024, I went on a Jakarta Immersion trip that was organised by Meet Ventures in collaboration with National Youth Council. The purpose of the trip was to learn more Indonesia and the startup culture of Indonesia. During the trip, we were also tasked with a business consultancy project for one of our sponsor company. This trip was a very enriching experience as it gave me great insight on what it takes to be a startup founder and also about Indonesia as an up and coming economic powerhouse.',
+            image: require('../assets/jakarta.jpeg')
           },
           experience2: {
-            title: 'Giving a Talk to Students',
-            description: 'Detailed description of the experience and the impact it had on you and the audience.',
-            image: '../assets/talk.jpg'
+            title: 'Course planning workshop',
+            description: 'This was a unique oppourtunity that was offered to me due to me working at the student services hub. I was tasked with giving a talk to the freshman on how they should be planning for the academic career in SMU. In the talk, I also shared with the year 1s on the importance of planning of early and also the resources that were at their disposal, that would help them to easily plan their SMU journey.',
+            image: require('../assets/sshoverview.jpeg')
           },
           experience3: {
-            title: 'Workshop Participation',
-            description: 'Detailed description of the workshop and the key takeaways you gained.',
-            image: '../assets/workshop.jpg'
+            title: 'Google Cybersecurity course',
+            description: 'This is a cybersecurity course that I took during the summer of 2024. Due to nature of the digital age that we are living in, a lot of data is produced on a daily basis. Proper utilisation of this data with technology allows us to have better standards of living, however, this data is also susceptible to malicious actors. This means that data security is also becoming paramount importance. Due to this, I felt that a knowledge in cybersecurity would benefit me in my journey as a web developer or data analyst.',
+            image: require('../assets/cybersecurity.png')
           }
         }
       };
