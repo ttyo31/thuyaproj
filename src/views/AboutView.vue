@@ -67,7 +67,7 @@
               <li>Demonstrated strong interpersonal skills, fostering positive customer interactions and enhancing the overall customer experience.</li>
             </ul>
           </p>
-          <p><b>Skills Learned:</b>Customer Service, Tech literacy, Effective communication</p>
+          <p><b>Skills Learned:</b> Customer Service, Tech literacy, Effective communication</p>
         </div>
         <div class="col-4">
           <img src="../assets/m1.png" class="round-image">
@@ -84,11 +84,9 @@
               <li>Specialized in transporting military vehicles and live ordnance, including the operation of low loaders and other heavy vehicles.</li>
               <li>Trained and certified in driving Class 3, Class 4, and Class 4A vehicles, gaining extensive experience in handling large and complex vehicles under challenging conditions.</li>
               <li>Successfully navigated the risks associated with transporting live ordnance, developing strong situational awareness and a meticulous approach to safety.</li>
-              <li>Overcame initial challenges and fear associated with driving large vehicles through consistent practice, eventually achieving confidence and proficiency in operating low loaders.</li>
-              <li>Contributed to the success of the company's operations by ensuring the safe and timely transport of critical military assets.</li>
             </ul>
           </p>
-          <p><b>Skills Learned:</b> Teamwork, Attention to detail, Problem Solving</p>
+          <p><b>Skills Learned:</b> Teamwork, Attention to details, Problem Solving</p>
         </div>
         <div class="col-4">
           <img src="../assets/army.jpeg" class="round-image">
@@ -102,7 +100,7 @@
           <p><b>Duration:</b> Dec 2016 - Feb 2017</p>
           <p>
             <ul>
-              <li>Assisted customers in selecting and purchasing Christmas trees, providing excellent customer service and ensuring a positive shopping experience.</li>
+              <li>Assisted customers in selecting and purchasing plants, providing excellent customer service and ensuring a positive shopping experience.</li>
               <li>Managed order processing, including scheduling delivery dates and coordinating with customers to ensure timely and accurate deliveries.</li>
               <li>Communicated effectively with delivery staff to coordinate logistics, optimizing delivery routes based on both delivery dates and geographic areas.</li>
               <li>Developed strong organizational and multitasking skills by handling multiple orders and delivery schedules simultaneously.</li>
